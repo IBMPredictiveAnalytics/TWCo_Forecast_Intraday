@@ -1,4 +1,4 @@
-# Extension for TWCo Forecast Daily
+# Extension for TWCo Forecast Intraday
 This implementation allows you to connect to APIs provided by The Weather Company from IBM SPSS Modeler. These APIs will require a key so that you can retrieve the actual weather data. Please contact your IBM sales representative so that we can assist you to obtain the key. 
 
 ---
@@ -8,12 +8,12 @@ This implementation allows you to connect to APIs provided by The Weather Compan
 ![Screenshot2](./Screenshot/output.jpg)
 
 # Overview for Standard Site-Based Historical Observations
-10 Day Daily Forecast - Forecast for 24-hour periods starting today for the next 10 days including daytime and nighttime.  Includes narrative text for the language requested
+10 Day Intraday Forecast - Forecast for 6-hour periods starting today for the next 10 days.  Includes ‘morning’ (7am to 1pm), ‘afternoon’ (1pm - 7pm), ‘tonight’ (7pm - 1am), and ‘overnight’ (1am- 7am).
 
 ---
 # Reference
-[The Weather Company](http://www.theweathercompany.com/)
-[Historical Weather](http://goo.gl/AoxGl3)
+[The Weather Company](http://www.theweathercompany.com/)  
+[TWCo Forecast Intraday](http://goo.gl/w3aJuZ)
 
 ---
 #Requirements
